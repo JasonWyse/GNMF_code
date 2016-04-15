@@ -1,0 +1,5 @@
+function [ mmu_mgi_mp,begin,end ] = divide( mmu_mgi_mp,k,n )
+
+
+end
+

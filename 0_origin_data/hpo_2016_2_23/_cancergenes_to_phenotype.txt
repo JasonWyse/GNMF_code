@@ -1,0 +1,120 @@
+#Format: entrez-gene-id<tab>entrez-gene-symbol<tab>HPO-Term-Name<tab>HPO-Term-ID
+11200	CHEK2	Heterogeneous	HP:0001425
+11200	CHEK2	Autosomal dominant inheritance	HP:0000006
+11200	CHEK2	Breast carcinoma	HP:0003002
+11200	CHEK2	Prostate cancer	HP:0012125
+2048	EPHB2	Neoplasm of the central nervous system	HP:0100006
+2048	EPHB2	Prostate cancer	HP:0012125
+5888	RAD51	Heterogeneous	HP:0001425
+5888	RAD51	Autosomal dominant inheritance	HP:0000006
+5888	RAD51	Breast carcinoma	HP:0003002
+3265	HRAS	Abnormality of metabolism/homeostasis	HP:0001939
+3265	HRAS	Transitional cell carcinoma of the bladder	HP:0006740
+3265	HRAS	Autosomal dominant inheritance	HP:0000006
+3265	HRAS	Follicular thyroid carcinoma	HP:0006731
+580	BARD1	Heterogeneous	HP:0001425
+580	BARD1	Autosomal dominant inheritance	HP:0000006
+580	BARD1	Breast carcinoma	HP:0003002
+6790	AURKA	Renal cell carcinoma	HP:0005584
+6790	AURKA	Neoplasm of the stomach	HP:0006753
+6790	AURKA	Transitional cell carcinoma of the bladder	HP:0006740
+6790	AURKA	Uterine leiomyosarcoma	HP:0002891
+6790	AURKA	Hereditary nonpolyposis colorectal carcinoma	HP:0006716
+5320	PLA2G2A	Renal cell carcinoma	HP:0005584
+5320	PLA2G2A	Neoplasm of the stomach	HP:0006753
+5320	PLA2G2A	Transitional cell carcinoma of the bladder	HP:0006740
+5320	PLA2G2A	Uterine leiomyosarcoma	HP:0002891
+5320	PLA2G2A	Hereditary nonpolyposis colorectal carcinoma	HP:0006716
+841	CASP8	Heterogeneous	HP:0001425
+841	CASP8	Autosomal dominant inheritance	HP:0000006
+841	CASP8	Autosomal recessive inheritance	HP:0000007
+841	CASP8	Alveolar cell carcinoma	HP:0006519
+841	CASP8	Breast carcinoma	HP:0003002
+1548	CYP2A6	Autosomal recessive inheritance	HP:0000007
+1548	CYP2A6	Alveolar cell carcinoma	HP:0006519
+463	ZFHX3	Autosomal dominant inheritance	HP:0000006
+463	ZFHX3	Prostate cancer	HP:0012125
+6928	HNF1B	Renal cell carcinoma	HP:0005584
+6928	HNF1B	Sporadic	HP:0003745
+595	CCND1	Renal cell carcinoma	HP:0005584
+595	CCND1	Neoplasm of the stomach	HP:0006753
+595	CCND1	Transitional cell carcinoma of the bladder	HP:0006740
+595	CCND1	Uterine leiomyosarcoma	HP:0002891
+595	CCND1	Hereditary nonpolyposis colorectal carcinoma	HP:0006716
+3092	HIP1	Autosomal dominant inheritance	HP:0000006
+3092	HIP1	Prostate cancer	HP:0012125
+3732	CD82	Autosomal dominant inheritance	HP:0000006
+3732	CD82	Prostate cancer	HP:0012125
+27030	MLH3	Endometrial carcinoma	HP:0012114
+472	ATM	Heterogeneous	HP:0001425
+472	ATM	Autosomal dominant inheritance	HP:0000006
+472	ATM	Breast carcinoma	HP:0003002
+3161	HMMR	Heterogeneous	HP:0001425
+3161	HMMR	Autosomal dominant inheritance	HP:0000006
+3161	HMMR	Breast carcinoma	HP:0003002
+2074	ERCC6	Autosomal recessive inheritance	HP:0000007
+2074	ERCC6	Alveolar cell carcinoma	HP:0006519
+5728	PTEN	Autosomal dominant inheritance	HP:0000006
+5728	PTEN	Prostate cancer	HP:0012125
+672	BRCA1	Multifactorial inheritance	HP:0001426
+672	BRCA1	Autosomal dominant inheritance	HP:0000006
+672	BRCA1	Breast carcinoma	HP:0003002
+3553	IL1B	Autosomal dominant inheritance	HP:0000006
+3553	IL1B	Chronic atrophic gastritis	HP:0002582
+3553	IL1B	Cleft upper lip	HP:0000204
+3553	IL1B	Stomach cancer	HP:0012126
+3553	IL1B	Cleft palate	HP:0000175
+675	BRCA2	Heterogeneous	HP:0001425
+675	BRCA2	Multifactorial inheritance	HP:0001426
+675	BRCA2	Autosomal dominant inheritance	HP:0000006
+675	BRCA2	Breast carcinoma	HP:0003002
+4835	NQO2	Heterogeneous	HP:0001425
+4835	NQO2	Autosomal dominant inheritance	HP:0000006
+4835	NQO2	Breast carcinoma	HP:0003002
+356	FASLG	Autosomal recessive inheritance	HP:0000007
+356	FASLG	Alveolar cell carcinoma	HP:0006519
+1956	EGFR	Autosomal recessive inheritance	HP:0000007
+1956	EGFR	Alveolar cell carcinoma	HP:0006519
+3557	IL1RN	Autosomal dominant inheritance	HP:0000006
+3557	IL1RN	Chronic atrophic gastritis	HP:0002582
+3557	IL1RN	Cleft upper lip	HP:0000204
+3557	IL1RN	Stomach cancer	HP:0012126
+3557	IL1RN	Cleft palate	HP:0000175
+999	CDH1	Heterogeneous	HP:0001425
+999	CDH1	Autosomal dominant inheritance	HP:0000006
+999	CDH1	Breast carcinoma	HP:0003002
+999	CDH1	Prostate cancer	HP:0012125
+7080	NKX2-1	Autosomal dominant inheritance	HP:0000006
+7080	NKX2-1	Papillary thyroid carcinoma	HP:0002895
+5424	POLD1	Endometrial carcinoma	HP:0012114
+5424	POLD1	Autosomal dominant inheritance	HP:0000006
+5424	POLD1	Colorectal polyposis	HP:0200063
+4978	OPCML	Abnormality of metabolism/homeostasis	HP:0001939
+4978	OPCML	Ovarian papillary adenocarcinoma	HP:0006774
+4978	OPCML	Autosomal dominant inheritance	HP:0000006
+4978	OPCML	Breast carcinoma	HP:0003002
+4978	OPCML	Dysgerminoma	HP:0100621
+5426	POLE	Autosomal dominant inheritance	HP:0000006
+5426	POLE	Colorectal polyposis	HP:0200063
+5426	POLE	Adult onset	HP:0003581
+57522	SRGAP1	Abnormality of metabolism/homeostasis	HP:0001939
+57522	SRGAP1	Autosomal dominant inheritance	HP:0000006
+57522	SRGAP1	Follicular thyroid carcinoma	HP:0006731
+2099	ESR1	Heterogeneous	HP:0001425
+2099	ESR1	Autosomal dominant inheritance	HP:0000006
+2099	ESR1	Breast carcinoma	HP:0003002
+8438	RAD54L	Heterogeneous	HP:0001425
+8438	RAD54L	Autosomal dominant inheritance	HP:0000006
+8438	RAD54L	Breast carcinoma	HP:0003002
+4601	MXI1	Autosomal dominant inheritance	HP:0000006
+4601	MXI1	Prostate cancer	HP:0012125
+7099	TLR4	Renal cell carcinoma	HP:0005584
+7099	TLR4	Neoplasm of the stomach	HP:0006753
+7099	TLR4	Transitional cell carcinoma of the bladder	HP:0006740
+7099	TLR4	Uterine leiomyosarcoma	HP:0002891
+7099	TLR4	Hereditary nonpolyposis colorectal carcinoma	HP:0006716
+4092	SMAD7	Heterogeneous	HP:0001425
+4092	SMAD7	Colon cancer	HP:0003003
+5245	PHB	Heterogeneous	HP:0001425
+5245	PHB	Autosomal dominant inheritance	HP:0000006
+5245	PHB	Breast carcinoma	HP:0003002
