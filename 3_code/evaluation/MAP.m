@@ -11,6 +11,8 @@ for i = 1: m
     for j = 1:length(t)
         if t(j) <= top_n
             map(i) = map(i) + j/t(j);
+        else
+            break;
         end
     end
     %map(i) = map(i)/length(t);
