@@ -10,7 +10,7 @@ load('data670.mat');
 
 mmu_mgi_mp = mmu_mp_mgi';
 experiment_times = 10;
-batch_folds = 10;
+batch_folds = 1;
 max_ites = 5*batch_folds; 
 K = 10;
 epsilon = 0.1;
@@ -20,9 +20,9 @@ test_set_percent = 0.2;
 %indicates the percentage of origianl training set to train
 train_set_percent = 1;
 
-lambda0 = [0,0.001,0.01,0.1,1,10,100,1000];%[0,0.001,0.01,0.1,1,10,100,1000]
-lambda1 = [0,0.001,0.01,0.1,1,10,100,1000];% [0,0.001,0.01,0.1,1,10,100,1000]
-lambda2 = [1];
+lambda0 = [0,0.001,0.01,0.1,1];%[0,0.001,0.01,0.1,1,10,100,1000]
+lambda1 = [0,0.001,0.01,0.1,1];% [0,0.001,0.01,0.1,1,10,100,1000]
+lambda2 = [0,1];
 top_n_set = [200,400,600,800,1000];
 evaluate_result = cell(experiment_times, length(lambda0), length(lambda1), length(lambda2));
 obj_val_result = cell(experiment_times, length(lambda0), length(lambda1), length(lambda2));

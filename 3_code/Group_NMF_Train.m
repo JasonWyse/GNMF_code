@@ -54,8 +54,7 @@ function [U, V , objective_value_set] = Group_NMF_Train(mgi_mp_train_set, pathwa
     end    
 end
 function [objective_value] = Objective_Fun(R, pathway_mgi, U, V, ...,
-    L1, L2, lambda0, lambda1, lambda2)
-    objective_value = 0;
+    L1, L2, lambda0, lambda1, lambda2)    
     group_loss = 0;
     %filter out the pathways that contain more than one genes, in order
     %to calculate the center of genes
@@ -82,7 +81,7 @@ function [U] = Gradient_Update_U(U_rows_set, group_center_matrix, ...,
             R, pathway_mgi, U, V, S1, lambda0, lambda1, lambda2, K)
     %parameter 'U_rows_set': it indicates which rows are gonna take gradient
     U_old = U;    
-    D1 = diag(diag(S1));
+    D1 = diag(sum(S1));
     for i = U_rows_set       
         group_center_sum_contain_gene_i = zeros(1,K);
         c_i = sum(pathway_mgi(:,i));
